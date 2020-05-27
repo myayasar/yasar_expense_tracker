@@ -4,7 +4,7 @@ This project was bootstrapped with ReactJs for expence tracer by Mohamed Yasar A
 
 In the project directory, you can run:
 
-### `npm run install`
+### `npm install`
 
 Install all the requirement
 
